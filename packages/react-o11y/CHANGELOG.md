@@ -1,5 +1,13 @@
 # @assistant-ui/react-o11y
 
+## 0.0.28
+
+### Patch Changes
+
+- Updated dependencies [[`a0ddc86`](https://github.com/assistant-ui/assistant-ui/commit/a0ddc862b0c506bd791238ebf800868e4836820a), [`7e871ef`](https://github.com/assistant-ui/assistant-ui/commit/7e871efe16f1ab0dc3b0e6b21e04728835dbb6da)]:
+  - @assistant-ui/tap@0.9.6
+  - @assistant-ui/store@0.2.22
+
 ## 0.0.27
 
 ### Patch Changes
